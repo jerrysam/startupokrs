@@ -1,1 +1,11 @@
 /****** PLACE YOUR CUSTOM STYLES HERE ******/
+
+a {
+	color: #474553;
+	text-decoration: underline;
+}
+
+a.btn,
+nav a {
+	text-decoration: none;
+}
