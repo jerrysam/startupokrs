@@ -6,10 +6,15 @@ a {
 }
 
 a.btn,
-nav a {
+nav a,
+footer a {
 	text-decoration: none;
 }
 
 .menu > li ul {
 	width: 220px;
+}
+
+.vnu {
+	display: none;
 }
