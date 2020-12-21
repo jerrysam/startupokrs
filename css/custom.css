@@ -9,3 +9,7 @@ a.btn,
 nav a {
 	text-decoration: none;
 }
+
+.menu > li ul {
+	width: 220px;
+}
